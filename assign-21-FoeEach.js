@@ -40,4 +40,3 @@ arrayNumber.forEach(( element)=>{
         }
 
       });
-      
